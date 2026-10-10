@@ -1,0 +1,112 @@
+[
+  {
+    "titulo": "Grande Nuvem de Magalhães",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-1.png",
+    "id": "1",
+    "tagId": 2,
+    "visualizacoes": 1240,
+    "curtidas": 85,
+    "dataPublicacao": "2026-09-02",
+    "favorita": false
+  },
+  {
+    "titulo": "Via Láctea",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-2.png",
+    "id": "2",
+    "tagId": 2,
+    "visualizacoes": 2860,
+    "curtidas": 210,
+    "dataPublicacao": "2026-09-08",
+    "favorita": false
+  },
+  {
+    "titulo": "Lua: quarto minguante",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-3.png",
+    "id": "3",
+    "tagId": 3,
+    "visualizacoes": 940,
+    "curtidas": 160,
+    "dataPublicacao": "2026-09-15",
+    "favorita": false
+  },
+  {
+    "titulo": "Galáxia de Andrômeda",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-4.png",
+    "id": "4",
+    "tagId": 2,
+    "visualizacoes": 3150,
+    "curtidas": 195,
+    "dataPublicacao": "2026-09-04",
+    "favorita": false
+  },
+  {
+    "titulo": "Estrela Pistola",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-5.png",
+    "id": "5",
+    "tagId": 1,
+    "visualizacoes": 1720,
+    "curtidas": 240,
+    "dataPublicacao": "2026-09-19",
+    "favorita": false
+  },
+  {
+    "titulo": "Ilustração",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-6.png",
+    "id": "6",
+    "tagId": 4,
+    "visualizacoes": 650,
+    "curtidas": 42,
+    "dataPublicacao": "2026-09-25",
+    "favorita": false
+  },
+  {
+    "titulo": "Galáxia de Andrômeda",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-7.png",
+    "id": "7",
+    "tagId": 2,
+    "visualizacoes": 2380,
+    "curtidas": 120,
+    "dataPublicacao": "2026-09-11",
+    "favorita": false
+  },
+  {
+    "titulo": "Ilustração",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-8.png",
+    "id": "8",
+    "tagId": 4,
+    "visualizacoes": 780,
+    "curtidas": 64,
+    "dataPublicacao": "2026-09-28",
+    "favorita": false
+  },
+  {
+    "titulo": "Céu estrelado",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-9.png",
+    "id": "9",
+    "tagId": 1,
+    "visualizacoes": 1940,
+    "curtidas": 180,
+    "dataPublicacao": "2026-09-21",
+    "favorita": false
+  },
+  {
+    "titulo": "Ilustração",
+    "fonte": "Alura Space",
+    "path": "/imagens/galeria/foto-10.png",
+    "id": "10",
+    "tagId": 1,
+    "visualizacoes": 1120,
+    "curtidas": 98,
+    "dataPublicacao": "2026-09-06",
+    "favorita": false
+  }
+]
